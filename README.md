@@ -1,2 +1,2 @@
-# PyData_Projects
-PyData projects for Business Intelligence
+# Data Analysis Projects
+Data Analysis projects for Business Intelligence
